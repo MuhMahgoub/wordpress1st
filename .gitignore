@@ -1,4 +1,6 @@
 /build
-/css
-/images
-/src
+/css/
+/images/*
+/src/*
+
+.vscode
